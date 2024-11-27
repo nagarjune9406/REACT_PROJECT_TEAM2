@@ -1,0 +1,32 @@
+/* HomeScreen.css */
+.homeScreen-container {
+    height: 100vh;
+    /* width: 100vw; */
+    background-image: url('https://img.freepik.com/premium-photo/vibrant-present-boxes-adorned-with-ribbons-resting-simple-floor-wall_1160231-19774.jpg'); /* Adjust path if needed */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align:center;
+    overflow: hidden;
+  }
+  .homeScreen-container h2{
+    
+    text-align: center;
+    height: 500px;
+    font-weight: 1000;
+    
+    font-weight: 1000;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  /* h3{
+    text-align:left;
+    height: 300px;
+    font-size: larger;
+    font-weight: 700;
+  }
+   */
